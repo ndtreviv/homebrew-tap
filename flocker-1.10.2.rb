@@ -63,8 +63,8 @@ class Flocker1102 < Formula
   end
 
   resource "cffi" do
-    url "https://pypi.python.org/packages/source/c/cffi/cffi-1.1.2.tar.gz"
-    sha1 "6d6203bf7d390560ac50943da4a3d2c96ab29756"
+    url "https://pypi.python.org/packages/source/c/cffi/cffi-1.5.2.tar.gz"
+    sha1 "5239b3aa4f67eed3559c09778096ecd4faeca876"
   end
 
   resource "characteristic" do
@@ -73,8 +73,8 @@ class Flocker1102 < Formula
   end
 
   resource "cryptography" do
-    url "https://pypi.python.org/packages/source/c/cryptography/cryptography-1.2.tar.gz"
-    sha1 "63c9cd97c09cbba82d2d44da46ccaeb34e7958e6"
+    url "https://pypi.python.org/packages/source/c/cryptography/cryptography-1.2.3.tar.gz"
+    sha1 "a8a8083e70875423bd72899ca99890b788189205"
   end
 
   resource "debtcollector" do
