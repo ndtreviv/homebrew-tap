@@ -73,7 +73,7 @@ class Flocker1102 < Formula
   end
 
   resource "cryptography" do
-    url "https://pypi.python.org/packages/source/c/cryptography/cryptography-1.1.2.tar.gz"
+    url "https://pypi.python.org/packages/source/c/cryptography/cryptography-1.2.tar.gz"
     sha1 "7ce01ed984c580ed0d967ca6623f274d806e3fd1"
   end
 
