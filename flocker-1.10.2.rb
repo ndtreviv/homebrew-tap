@@ -2,8 +2,8 @@ require "formula"
 
 class Flocker1102 < Formula
   homepage "https://clusterhq.com"
-  url "https://clusterhq-archive.s3.amazonaws.com/python/Flocker-1.10.2.tar.gz"
-  sha1 "1f52b2acbd52daccb78730a1423e8bf9b7877d40"
+  url "https://photoforensics.cameraforensics.com/Flocker-1.10.2.tar.gz"
+  sha1 "94bcfefc71b0cafbf6cbd2e4d798f2d792cef022"
   depends_on :python if MacOS.version <= :snow_leopard
   depends_on "openssl"
 
