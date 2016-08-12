@@ -1,4 +1,4 @@
-class Storm < Formula
+class Storm0100 < Formula
   desc "Distributed realtime computation system to process data streams"
   homepage "https://storm.apache.org"
   url "https://www.apache.org/dyn/closer.cgi?path=storm/apache-storm-0.10.0/apache-storm-0.10.0.tar.gz"
